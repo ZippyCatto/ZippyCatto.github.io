@@ -1,5 +1,9 @@
+@font-face { font-family: UbuntuMono; src: url('fonts/UbuntuMono-Regular.ttf'); }
+
 body {
   background-color: #2f2f2f;
+  color: #303030;
+  font-family: UbuntuMono
 }
 
 
