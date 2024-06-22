@@ -1,3 +1,3 @@
-made this website with my lack of knowledge of html sure do hope my lack of knowledge wont backfire me
+my silly little website, moved from neocities just cause why not
 
-idk how to use github lmao
+feel free to use the website's design for your own i dont care (not that its good in the first place)
