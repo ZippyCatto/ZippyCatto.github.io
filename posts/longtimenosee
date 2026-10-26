@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dev.zip - long time no see!!</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <meta content="dev.zip webpage - long time no see!!" property="og:title" />
+    <meta content="yo! this is like my website feel free to check the contents of this website" property="og:description" />
+    <meta content="https://ZippyCatto.github.io/posts/testpost.html" property="og:url" />
+    <meta content="https://ZippyCatto.github.io/images/devdotzipembed.png" property="og:image" />
+    <meta content="#f4eb3d" data-react-helmet="true" name="theme-color" />
+  </head>
+  <body>
+    <table align="center" bgcolor="#ffda3b" width=800 height=96 cellpadding=0 cellspacing=0 border=0>
+		<tr>
+			<td align="center"><a href="/index.html"><img src="/logo.png"></a></td>
+		</tr>
+	</table>
+	<table align="center" bgcolor="#fff1b6" width=800 height=26 cellpadding=0 cellspacing=0 border=0>
+		<tr>
+			<td align="center"><a href="/index.html">Home</a> | <a href="/blog.html">Blogs</a> | <a href="/links.html">Links</a> | <a href="/extras.html">Extras<a> | <a href="/about.html">About me</a></td>
+		</tr>
+	</table>
+	<table align="center" bgcolor="#fffbeb" width=800 cellpadding=0 cellspacing=15 border=0>
+		<tr>
+			<td bgcolor="#fffbeb" valign="top" width="80%" cellpadding=0 cellspacing=0 border=0>
+				<p><a href=/blog.html> <img src=/images/back.png> back to blogs</a></p>
+				<h1>testing post!!</h1>
+				<font size="-2" color="#929291">26/10/2026</font>
+				<p>good lord! its been like, two years by this point? jeez. time flies fast! long time no see on this dust riddled website!</p>
+        <p>now this does not mean i am coming back under this name, however i can bring a few updates on me ever since!</p>
+				<p>ive been living a mediocre life ever since, lots of downs but also lots of ups. but i draw more! (just under a different account...). and it improved and i got a certain style to it!</p>
+        <p>other than that, i just dont have anything much to say. but i do respect everyone even those who have wronged me. farewell!</p>
+			</td>
+		</tr>
+	</table>
+  </body>
+</html>
